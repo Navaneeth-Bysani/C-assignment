@@ -1,0 +1,5 @@
+CourseID,  CourseName
+CS1L003, PDS
+MA1L001, Mathematics
+PH1L004, physics
+CH1L005, Chemistry
